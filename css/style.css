@@ -465,9 +465,7 @@ body {
   line-height: 170%;
   margin-bottom: 15px;
 }
-.dop {
-  margin-bottom: 45px;
-}
+
 .services__text-desc {
   font-weight: 500;
   font-size: clamp(0.938rem, 0.913rem + 0.11vw, 1rem);
