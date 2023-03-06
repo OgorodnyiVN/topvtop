@@ -41,10 +41,10 @@ body {
           box-sizing: content-box;
 }
 .burger:focus, .burger:focus-visible, .burger:focus-within{
-  background: transparent;
+  background: none;
 }
 .burger:focus-visible{
-
+  background: none;
 }
 .burger span {
   display: block;
